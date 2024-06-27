@@ -41,24 +41,26 @@ Visit the Website :- https://chat-application-4krm.onrender.com/
 4. Install dependencies for both frontend and backend
 > For frontend dependencies Go to the frontend folder Package.json file
   and see all dependencies for installation
-
-bash
+> 
+```sh
  npm i 
- npm i all_dependencies_name 
+ npm i all_dependencies_name
+
 
 
 4. Set up environment variables:
    
    - Create a .env file in the Chat Application folder directory.
    - Define the following variables in the .env file:
-     
+
+     ```sh     
      PORT = 5000
      MONGODB_URI = <your_mongodb_uri>
      JWT_SECRET = <your_jwt_secret>
      
 
 5. Run the development server:
-   bash
+   ```sh
    npm run start
    
 

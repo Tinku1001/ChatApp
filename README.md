@@ -5,7 +5,7 @@ Visit the Website :- https://chat-application-4krm.onrender.com/
 
 
 ## demo ScreenShot
-<img src="demo.png" alt="Project Logo" width="200" height="200">
+<img src="demo.png" alt="Project Logo" width="400" height="400">
 
 
 ## Features

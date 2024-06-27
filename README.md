@@ -3,6 +3,11 @@ This is Web-Based Chat-Application developed using the MERN (MongoDB, Express.js
 
 Visit the Website :- https://chat-application-4krm.onrender.com/
 
+
+## demo ScreenShot
+<img src="demo.png" alt="Project Logo" width="200" height="200">
+
+
 ## Features
 
 - User authentication: Users can register and log in securely.

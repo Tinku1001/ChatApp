@@ -1,4 +1,5 @@
-
+# Web Based- Chat Application
+This is Web-Based Chat-Application developed using the MERN (MongoDB, Express.js, React.js, Node.js,socket.io,jwt) stack. It allows users to register, log in, and chat with other users in real time.
 
 ## Features
 
@@ -25,28 +26,14 @@
 1. Clone the repository:
 
    bash
-   git clone https://github.com/arvindk2025/Chat-Application
+   git clone https://github.com/Tinku1001/ChatApp.git
    
 
-2. Navigate to the project directory:
-
-   bash
-   cd Chat-Application
-   
+2. Navigate to the project directory:   
 
 3. Install dependencies for both frontend and backend
 > For frontend dependencies Go to the frontend folder Package.json file
   and see all dependencies for installation
-
-bash
- npm i 
- npm i all_dependencies_name 
-
-
-
-> For Backend Dependencies Go to the Chat-Application folder & refer directly available  package.json file:
-
-
 
 bash
  npm i 

@@ -41,7 +41,7 @@ Visit the Website :- https://chat-application-4krm.onrender.com/
 4. Install dependencies for both frontend and backend
 > For frontend dependencies Go to the frontend folder Package.json file
   and see all dependencies for installation
-
+>
 
  npm i 
  npm i all_dependencies_name

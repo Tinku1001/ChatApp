@@ -1,6 +1,8 @@
 # Web Based- Chat Application
 This is Web-Based Chat-Application developed using the MERN (MongoDB, Express.js, React.js, Node.js,socket.io,jwt) stack. It allows users to register, log in, and chat with other users in real time.
 
+Visit the Website :- https://chat-application-4krm.onrender.com/
+
 ## Features
 
 - User authentication: Users can register and log in securely.

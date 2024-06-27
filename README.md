@@ -5,7 +5,7 @@ Visit the Website :- https://chat-application-4krm.onrender.com/
 
 
 ## demo ScreenShot
-<img src="demo.png" alt="Project Logo" width="400" height="400">
+<img src="demo.png" alt="Project Logo" width="450" height="400">
 
 
 ## Features
@@ -32,7 +32,6 @@ Visit the Website :- https://chat-application-4krm.onrender.com/
 
 1. Clone the repository:
 
-   bash
    git clone https://github.com/Tinku1001/ChatApp.git
    
 
@@ -58,7 +57,6 @@ bash
      
 
 5. Run the development server:
-
    bash
    npm run start
    

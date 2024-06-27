@@ -32,12 +32,13 @@ Visit the Website :- https://chat-application-4krm.onrender.com/
 
 1. Clone the repository:
 
+   ```sh
    git clone https://github.com/Tinku1001/ChatApp.git
    
 
-2. Navigate to the project directory:   
+3. Navigate to the project directory:   
 
-3. Install dependencies for both frontend and backend
+4. Install dependencies for both frontend and backend
 > For frontend dependencies Go to the frontend folder Package.json file
   and see all dependencies for installation
 

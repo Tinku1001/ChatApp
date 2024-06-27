@@ -44,6 +44,7 @@ Visit the Website :- https://chat-application-4krm.onrender.com/
 >
 
  npm i 
+ 
  npm i all_dependencies_name
 
 
